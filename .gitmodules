@@ -1,0 +1,270 @@
+[submodule "lesson-plans/anatomy-of-a-theme"]
+	path = lesson-plans/anatomy-of-a-theme
+	url = https://github.com/wptrainingteam/anatomy-of-a-theme.git
+[submodule "lesson-plans/backing-up-your-wordpress-site"]
+	path = lesson-plans/backing-up-your-wordpress-site
+	url = https://github.com/wptrainingteam/backing-up-your-wordpress-site.git
+[submodule "lesson-plans/basic-theme-configuration"]
+	path = lesson-plans/basic-theme-configuration
+	url = https://github.com/wptrainingteam/basic-theme-configuration.git
+[submodule "lesson-plans/becoming-a-better-speaker"]
+	path = lesson-plans/becoming-a-better-speaker
+	url = https://github.com/wptrainingteam/becoming-a-better-speaker.git
+[submodule "lesson-plans/building-a-sitemap-for-a-site"]
+	path = lesson-plans/building-a-sitemap-for-a-site
+	url = https://github.com/wptrainingteam/building-a-sitemap-for-a-site.git
+[submodule "lesson-plans/categories-versus-tags"]
+	path = lesson-plans/categories-versus-tags
+	url = https://github.com/wptrainingteam/categories-versus-tags.git
+[submodule "lesson-plans/child-themes"]
+	path = lesson-plans/child-themes
+	url = https://github.com/wptrainingteam/child-themes.git
+[submodule "lesson-plans/child-themes-twentyseventeen"]
+	path = lesson-plans/child-themes-twentyseventeen
+	url = https://github.com/wptrainingteam/child-themes-twentyseventeen.git
+[submodule "lesson-plans/child-themes-twentysixteen"]
+	path = lesson-plans/child-themes-twentysixteen
+	url = https://github.com/wptrainingteam/child-themes-twentysixteen.git
+[submodule "lesson-plans/choosing-and-installing-plugins"]
+	path = lesson-plans/choosing-and-installing-plugins
+	url = https://github.com/wptrainingteam/choosing-and-installing-plugins.git
+[submodule "lesson-plans/choosing-and-installing-themes"]
+	path = lesson-plans/choosing-and-installing-themes
+	url = https://github.com/wptrainingteam/choosing-and-installing-themes.git
+[submodule "lesson-plans/coding-best-practices"]
+	path = lesson-plans/coding-best-practices
+	url = https://github.com/wptrainingteam/coding-best-practices.git
+[submodule "lesson-plans/conditional-tags"]
+	path = lesson-plans/conditional-tags
+	url = https://github.com/wptrainingteam/conditional-tags.git
+[submodule "lesson-plans/content-editor-overview"]
+	path = lesson-plans/content-editor-overview
+	url = https://github.com/wptrainingteam/content-editor-overview.git
+[submodule "lesson-plans/contributor-resources"]
+	path = lesson-plans/contributor-resources
+	url = https://github.com/wptrainingteam/contributor-resources.git
+[submodule "lesson-plans/creating-great-slides"]
+	path = lesson-plans/creating-great-slides
+	url = https://github.com/wptrainingteam/creating-great-slides.git
+[submodule "lesson-plans/creating-your-wordpress-talk"]
+	path = lesson-plans/creating-your-wordpress-talk
+	url = https://github.com/wptrainingteam/creating-your-wordpress-talk.git
+[submodule "lesson-plans/custom-post-types"]
+	path = lesson-plans/custom-post-types
+	url = https://github.com/wptrainingteam/custom-post-types.git
+[submodule "lesson-plans/customizer-header-background-images"]
+	path = lesson-plans/customizer-header-background-images
+	url = https://github.com/wptrainingteam/customizer-header-background-images.git
+[submodule "lesson-plans/customizer-site-icons-and-logo"]
+	path = lesson-plans/customizer-site-icons-and-logo
+	url = https://github.com/wptrainingteam/customizer-site-icons-and-logo.git
+[submodule "lesson-plans/customizer-static-versus-content-front-page"]
+	path = lesson-plans/customizer-static-versus-content-front-page
+	url = https://github.com/wptrainingteam/customizer-static-versus-content-front-page.git
+[submodule "lesson-plans/customizer-taglines"]
+	path = lesson-plans/customizer-taglines
+	url = https://github.com/wptrainingteam/customizer-taglines.git
+[submodule "lesson-plans/dashboard-icons"]
+	path = lesson-plans/dashboard-icons
+	url = https://github.com/wptrainingteam/dashboard-icons.git
+[submodule "lesson-plans/dashboard-overview"]
+	path = lesson-plans/dashboard-overview
+	url = https://github.com/wptrainingteam/dashboard-overview.git
+[submodule "lesson-plans/enqueueing-scripts-and-styles"]
+	path = lesson-plans/enqueueing-scripts-and-styles
+	url = https://github.com/wptrainingteam/enqueueing-scripts-and-styles.git
+[submodule "lesson-plans/enqueueing-scripts-and-styles-reworked"]
+	path = lesson-plans/enqueueing-scripts-and-styles-reworked
+	url = https://github.com/wptrainingteam/enqueueing-scripts-and-styles-reworked.git
+[submodule "lesson-plans/finding-a-topic-for-a-wordpress-talk"]
+	path = lesson-plans/finding-a-topic-for-a-wordpress-talk
+	url = https://github.com/wptrainingteam/finding-a-topic-for-a-wordpress-talk.git
+[submodule "lesson-plans/general-history-of-wordpress"]
+	path = lesson-plans/general-history-of-wordpress
+	url = https://github.com/wptrainingteam/general-history-of-wordpress.git
+[submodule "lesson-plans/high-level-overview"]
+	path = lesson-plans/high-level-overview
+	url = https://github.com/wptrainingteam/high-level-overview.git
+[submodule "lesson-plans/how-to-create-a-blog-post-in-wordpress-5"]
+	path = lesson-plans/how-to-create-a-blog-post-in-wordpress-5
+	url = https://github.com/wptrainingteam/how-to-create-a-blog-post-in-wordpress-5.git
+[submodule "lesson-plans/how-to-find-help-with-wordpress"]
+	path = lesson-plans/how-to-find-help-with-wordpress
+	url = https://github.com/wptrainingteam/how-to-find-help-with-wordpress.git
+[submodule "lesson-plans/how-to-find-theme-specific-documentation"]
+	path = lesson-plans/how-to-find-theme-specific-documentation
+	url = https://github.com/wptrainingteam/how-to-find-theme-specific-documentation.git
+[submodule "lesson-plans/how-to-install-wordpress-on-a-server"]
+	path = lesson-plans/how-to-install-wordpress-on-a-server
+	url = https://github.com/wptrainingteam/how-to-install-wordpress-on-a-server.git
+[submodule "lesson-plans/improving-site-performance"]
+	path = lesson-plans/improving-site-performance
+	url = https://github.com/wptrainingteam/improving-site-performance.git
+[submodule "lesson-plans/info-presentation"]
+	path = lesson-plans/info-presentation
+	url = https://github.com/wptrainingteam/info-presentation.git
+[submodule "lesson-plans/introduction-to-common-plugins"]
+	path = lesson-plans/introduction-to-common-plugins
+	url = https://github.com/wptrainingteam/introduction-to-common-plugins.git
+[submodule "lesson-plans/introduction-to-css"]
+	path = lesson-plans/introduction-to-css
+	url = https://github.com/wptrainingteam/introduction-to-css.git
+[submodule "lesson-plans/introduction-to-gutenberg"]
+	path = lesson-plans/introduction-to-gutenberg
+	url = https://github.com/wptrainingteam/introduction-to-gutenberg.git
+[submodule "lesson-plans/introduction-to-the-theme-review-process"]
+	path = lesson-plans/introduction-to-the-theme-review-process
+	url = https://github.com/wptrainingteam/introduction-to-the-theme-review-process.git
+[submodule "lesson-plans/keeping-wordpress-sites-secure"]
+	path = lesson-plans/keeping-wordpress-sites-secure
+	url = https://github.com/wptrainingteam/keeping-wordpress-sites-secure.git
+[submodule "lesson-plans/local-install"]
+	path = lesson-plans/local-install
+	url = https://github.com/wptrainingteam/local-install.git
+[submodule "lesson-plans/managing-comments"]
+	path = lesson-plans/managing-comments
+	url = https://github.com/wptrainingteam/managing-comments.git
+[submodule "lesson-plans/managing-media"]
+	path = lesson-plans/managing-media
+	url = https://github.com/wptrainingteam/managing-media.git
+[submodule "lesson-plans/managing-menus"]
+	path = lesson-plans/managing-menus
+	url = https://github.com/wptrainingteam/managing-menus.git
+[submodule "lesson-plans/managing-spam-on-a-site"]
+	path = lesson-plans/managing-spam-on-a-site
+	url = https://github.com/wptrainingteam/managing-spam-on-a-site.git
+[submodule "lesson-plans/managing-updates"]
+	path = lesson-plans/managing-updates
+	url = https://github.com/wptrainingteam/managing-updates.git
+[submodule "lesson-plans/managing-widgets"]
+	path = lesson-plans/managing-widgets
+	url = https://github.com/wptrainingteam/managing-widgets.git
+[submodule "lesson-plans/markdown-cheatsheet"]
+	path = lesson-plans/markdown-cheatsheet
+	url = https://github.com/wptrainingteam/markdown-cheatsheet.git
+[submodule "lesson-plans/markdown-here"]
+	path = lesson-plans/markdown-here
+	url = https://github.com/wptrainingteam/markdown-here.git
+[submodule "lesson-plans/migrate-copy-or-clone-a-site"]
+	path = lesson-plans/migrate-copy-or-clone-a-site
+	url = https://github.com/wptrainingteam/migrate-copy-or-clone-a-site.git
+[submodule "lesson-plans/one-click-install-using-bluehost"]
+	path = lesson-plans/one-click-install-using-bluehost
+	url = https://github.com/wptrainingteam/one-click-install-using-bluehost.git
+[submodule "lesson-plans/pages-versus-posts"]
+	path = lesson-plans/pages-versus-posts
+	url = https://github.com/wptrainingteam/pages-versus-posts.git
+[submodule "lesson-plans/popular-plugins"]
+	path = lesson-plans/popular-plugins
+	url = https://github.com/wptrainingteam/popular-plugins.git
+[submodule "lesson-plans/post-formats-theme"]
+	path = lesson-plans/post-formats-theme
+	url = https://github.com/wptrainingteam/post-formats-theme.git
+[submodule "lesson-plans/post-formats-user"]
+	path = lesson-plans/post-formats-user
+	url = https://github.com/wptrainingteam/post-formats-user.git
+[submodule "lesson-plans/regenerate-thumbnails"]
+	path = lesson-plans/regenerate-thumbnails
+	url = https://github.com/wptrainingteam/regenerate-thumbnails.git
+[submodule "lesson-plans/repo-template"]
+	path = lesson-plans/repo-template
+	url = https://github.com/wptrainingteam/repo-template.git
+[submodule "lesson-plans/reveal.js"]
+	path = lesson-plans/reveal.js
+	url = https://github.com/wptrainingteam/reveal.js.git
+[submodule "lesson-plans/rss-feeds"]
+	path = lesson-plans/rss-feeds
+	url = https://github.com/wptrainingteam/rss-feeds.git
+[submodule "lesson-plans/setting-a-static-page-as-your-homepage"]
+	path = lesson-plans/setting-a-static-page-as-your-homepage
+	url = https://github.com/wptrainingteam/setting-a-static-page-as-your-homepage.git
+[submodule "lesson-plans/setting-up-ecommerce-using-woocommerce"]
+	path = lesson-plans/setting-up-ecommerce-using-woocommerce
+	url = https://github.com/wptrainingteam/setting-up-ecommerce-using-woocommerce.git
+[submodule "lesson-plans/settings"]
+	path = lesson-plans/settings
+	url = https://github.com/wptrainingteam/settings.git
+[submodule "lesson-plans/shower"]
+	path = lesson-plans/shower
+	url = https://github.com/wptrainingteam/shower.git
+[submodule "lesson-plans/template-hierarchy"]
+	path = lesson-plans/template-hierarchy
+	url = https://github.com/wptrainingteam/template-hierarchy.git
+[submodule "lesson-plans/template-tour"]
+	path = lesson-plans/template-tour
+	url = https://github.com/wptrainingteam/template-tour.git
+[submodule "lesson-plans/the-loop"]
+	path = lesson-plans/the-loop
+	url = https://github.com/wptrainingteam/the-loop.git
+[submodule "lesson-plans/theme-accessibility"]
+	path = lesson-plans/theme-accessibility
+	url = https://github.com/wptrainingteam/theme-accessibility.git
+[submodule "lesson-plans/theme-customizer-user"]
+	path = lesson-plans/theme-customizer-user
+	url = https://github.com/wptrainingteam/theme-customizer-user.git
+[submodule "lesson-plans/theme-internationalization"]
+	path = lesson-plans/theme-internationalization
+	url = https://github.com/wptrainingteam/theme-internationalization.git
+[submodule "lesson-plans/theme-troubleshooting"]
+	path = lesson-plans/theme-troubleshooting
+	url = https://github.com/wptrainingteam/theme-troubleshooting.git
+[submodule "lesson-plans/themes-plugins-relationship"]
+	path = lesson-plans/themes-plugins-relationship
+	url = https://github.com/wptrainingteam/themes-plugins-relationship.git
+[submodule "lesson-plans/train-the-trainers-speaker-lessons"]
+	path = lesson-plans/train-the-trainers-speaker-lessons
+	url = https://github.com/wptrainingteam/train-the-trainers-speaker-lessons.git
+[submodule "lesson-plans/troubleshooting-basics"]
+	path = lesson-plans/troubleshooting-basics
+	url = https://github.com/wptrainingteam/troubleshooting-basics.git
+[submodule "lesson-plans/user-management"]
+	path = lesson-plans/user-management
+	url = https://github.com/wptrainingteam/user-management.git
+[submodule "lesson-plans/using-the-advanced-custom-fields-plugin"]
+	path = lesson-plans/using-the-advanced-custom-fields-plugin
+	url = https://github.com/wptrainingteam/using-the-advanced-custom-fields-plugin.git
+[submodule "lesson-plans/web-fonts"]
+	path = lesson-plans/web-fonts
+	url = https://github.com/wptrainingteam/web-fonts.git
+[submodule "lesson-plans/what-are-google-xml-sitemaps"]
+	path = lesson-plans/what-are-google-xml-sitemaps
+	url = https://github.com/wptrainingteam/what-are-google-xml-sitemaps.git
+[submodule "lesson-plans/what-is-a-theme"]
+	path = lesson-plans/what-is-a-theme
+	url = https://github.com/wptrainingteam/what-is-a-theme.git
+[submodule "lesson-plans/what-is-akismet"]
+	path = lesson-plans/what-is-akismet
+	url = https://github.com/wptrainingteam/what-is-akismet.git
+[submodule "lesson-plans/what-is-contact-form-7"]
+	path = lesson-plans/what-is-contact-form-7
+	url = https://github.com/wptrainingteam/what-is-contact-form-7.git
+[submodule "lesson-plans/what-is-open-source"]
+	path = lesson-plans/what-is-open-source
+	url = https://github.com/wptrainingteam/what-is-open-source.git
+[submodule "lesson-plans/what-is-w3-total-cache"]
+	path = lesson-plans/what-is-w3-total-cache
+	url = https://github.com/wptrainingteam/what-is-w3-total-cache.git
+[submodule "lesson-plans/what-is-wordfence-security"]
+	path = lesson-plans/what-is-wordfence-security
+	url = https://github.com/wptrainingteam/what-is-wordfence-security.git
+[submodule "lesson-plans/what-is-yoast-seo"]
+	path = lesson-plans/what-is-yoast-seo
+	url = https://github.com/wptrainingteam/what-is-yoast-seo.git
+[submodule "lesson-plans/what-to-do-when-you-forget-your-password"]
+	path = lesson-plans/what-to-do-when-you-forget-your-password
+	url = https://github.com/wptrainingteam/what-to-do-when-you-forget-your-password.git
+[submodule "lesson-plans/what-to-include-in-functions-dot-php-file"]
+	path = lesson-plans/what-to-include-in-functions-dot-php-file
+	url = https://github.com/wptrainingteam/what-to-include-in-functions-dot-php-file.git
+[submodule "lesson-plans/what-you-can-do-with-wordpress"]
+	path = lesson-plans/what-you-can-do-with-wordpress
+	url = https://github.com/wptrainingteam/what-you-can-do-with-wordpress.git
+[submodule "lesson-plans/widget-areas"]
+	path = lesson-plans/widget-areas
+	url = https://github.com/wptrainingteam/widget-areas.git
+[submodule "lesson-plans/WP-Dashboard-SVG"]
+	path = lesson-plans/WP-Dashboard-SVG
+	url = https://github.com/wptrainingteam/WP-Dashboard-SVG.git
+[submodule "lesson-plans/writing-the-pitch-for-your-wordpress-talk"]
+	path = lesson-plans/writing-the-pitch-for-your-wordpress-talk
+	url = https://github.com/wptrainingteam/writing-the-pitch-for-your-wordpress-talk.git
